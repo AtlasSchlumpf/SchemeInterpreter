@@ -1,0 +1,1 @@
+9999999999{"name": "pair", "version": "0.2.3", "summary": "a ladder pairing/matching library", "requires_dist": ["networkx>=1.11"], "requires_python": null, "files": [{"file": "pair-0.2.3.tar.gz", "hash": "sha256:493a4c7a049e3bd0ee971fcfaae1e201960834b947a879f1e846f1670e6a5540"}], "yanked": false, "_cache_version": "2.0.0"}
